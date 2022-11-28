@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI Checked</string>
+    <string name="show">show</string>
+    <string name="chip_material">com.google.android.material.chip.Chip</string>
+    <string name="check_box_material">com.google.android.material.checkbox</string>
+    <string name="switch_material">com.google.android.material.switchmaterial.SwitchMaterial</string>
+    <string name="toggle_button">androidx.appcompat.widget.AppCompatToggleButton</string>
+</resources>
